@@ -48,6 +48,6 @@ asynchronous-fifo/
 └── README.md
 ```
 
-##STATUS
+## STATUS
 
  **ONGOING**
