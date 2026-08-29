@@ -56,6 +56,3 @@ asynchronous-fifo/
 **Core async FIFO implemented and passing directed test cases.**
 Next: randomized/scoreboard-based verification, broader clock-ratio stress testing.
 
-**Core async FIFO implemented and passing directed test cases.**
-Next: randomized/scoreboard-based verification, broader clock-ratio stress testing.
-
