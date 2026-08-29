@@ -47,14 +47,14 @@ asynchronous-fifo/
 └── README.md
 ```
 
-<<<<<<< HEAD
 ## Documentation
 - [Architecture & Block Diagram](docs/Architecture.md)
 - [Verification Report](docs/verification_report.md)
 - [Desgin Notes and Explained working](docs/DesginNotes.md)
 
-
-##STATUS
+## STATUS
+**Core async FIFO implemented and passing directed test cases.**
+Next: randomized/scoreboard-based verification, broader clock-ratio stress testing.
 
 **Core async FIFO implemented and passing directed test cases.**
 Next: randomized/scoreboard-based verification, broader clock-ratio stress testing.
